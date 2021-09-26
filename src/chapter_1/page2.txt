@@ -5,3 +5,7 @@ This is page 2 of chapter 1
 Our second file
 
 Now we have git enabled
+The green tab is showing what we added
+had a good idea
+this is new text for this page
+
