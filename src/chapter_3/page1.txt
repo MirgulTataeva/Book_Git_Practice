@@ -5,3 +5,7 @@ Hello, new day
 Working on chapter 3
 
 This page 1
+
+New text
+
+Learning Github
